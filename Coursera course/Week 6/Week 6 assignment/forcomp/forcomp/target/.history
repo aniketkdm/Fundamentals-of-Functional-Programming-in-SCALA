@@ -1,0 +1,36 @@
+console
+scala
+console
+testOnly *AnagramsSuite -- -z "wordOccurrences"
+scala List("one","two")
+List("one")
+console
+scala List("a")
+List("a")
+testOnly *AnagramsSuite -- -z "sentenceOccurrences"
+testOnly *AnagramsSuite -- -z "dictionaryByOccu"
+console
+testOnly *AnagramsSuite -- -z "dictionaryByOccu"
+testOnly *AnagramsSuite -- -z "word anagrams"
+console
+testOnly *AnagramsSuite -- -z "combinations"
+console
+testOnly *AnagramsSuite -- -z "combinations: abba"
+console
+testOnly *AnagramsSuite -- -z "combinations: abba"
+testOnly *AnagramsSuite -- -z "combinations"
+console
+testOnly *AnagramsSuite -- -z "subtract"
+testOnly *AnagramsSuite -- -t "sentence anagrams: []"
+testOnly *AnagramsSuite -- -t "sentence anagrams: Linux rulez"
+testOnly *AnagramsSuite -- -t "my sentence anagrams"
+console
+testOnly *AnagramsSuite -- -t "my sentence anagrams"
+testOnly *AnagramsSuite -- -t "sentence anagrams: Linux rulez"
+testOnly *AnagramsSuite -- -t "my sentence anagrams"
+testOnly *AnagramsSuite -- -t "sentence anagrams: Linux rulez"
+submit aniketkdm@gmail.com JXeoeQNzglXVL2yT
+testOnly *AnagramsSuite -- -t "sentence anagrams: Linux rulez"
+submit aniketkdm@gmail.com JXeoeQNzglXVL2yT
+testOnly *AnagramsSuite -- -t "sentence anagrams: Linux rulez"
+submit aniketkdm@gmail.com JXeoeQNzglXVL2yT

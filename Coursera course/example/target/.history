@@ -1,0 +1,14 @@
+run
+scala
+console
+compile
+import example.Lists._
+scala
+console
+compile
+scala
+console
+compile
+console
+test
+submit aniketkdm@gmail.com gQHpBbGOxWqDomW5

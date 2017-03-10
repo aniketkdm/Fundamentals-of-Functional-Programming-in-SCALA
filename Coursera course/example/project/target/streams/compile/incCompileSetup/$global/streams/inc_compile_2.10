@@ -1,0 +1,1139 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+69 items
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\Assignment$$anonfun$1.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\Assignment$.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\Assignment.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\CommonBuild$class.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\CommonBuild.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\GradingFeedback.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger$.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\GradingSummary$.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\GradingSummary.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anon$2.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$1.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$2.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$3.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$4.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$LimitedStringBuffer.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\Settings$.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\Settings.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuild.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuild$.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuild.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuild.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\MapMapString$.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\MapMapString.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$2.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$3.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$5.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$8$$anonfun$apply$10.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$8$$anonfun$apply$9.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$8.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$1.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$2.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$3.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$4.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$1.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$2.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$3.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$4.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$5.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$6.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$7.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$8.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$9.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$CustomTextOutput.class
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StyleChecker.class
+binary dependencies:
+40 items
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> C:\Program Files\Java\jre1.8.0_91\lib\rt.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> C:\Users\anike_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> C:\Program Files\Java\jre1.8.0_91\lib\rt.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> C:\Users\anike_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> C:\Program Files\Java\jre1.8.0_91\lib\rt.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-lang.modules\scala-pickling_2.10\jars\scala-pickling_2.10-0.10.0.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> C:\Users\anike_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> C:\Users\anike_000\.sbt\boot\scala-2.10.5\lib\scala-reflect.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> C:\Program Files\Java\jre1.8.0_91\lib\rt.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> C:\Users\anike_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> C:\Program Files\Java\jre1.8.0_91\lib\rt.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> C:\Users\anike_000\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> C:\Users\anike_000\.ivy2\cache\org.scalaj\scalaj-http_2.10\jars\scalaj-http_2.10-2.2.1.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> C:\Users\anike_000\.sbt\boot\scala-2.10.5\lib\scala-compiler.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> C:\Users\anike_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> C:\Users\anike_000\.sbt\boot\scala-2.10.5\lib\scala-reflect.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> C:\Program Files\Java\jre1.8.0_91\lib\rt.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> C:\Users\anike_000\.ivy2\cache\com.typesafe\config\bundles\config-1.2.0.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> C:\Users\anike_000\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> C:\Users\anike_000\.ivy2\cache\org.scalastyle\scalastyle_2.10\jars\scalastyle_2.10-0.8.0.jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> C:\Users\anike_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+6 items
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuild.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+2 items
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuild.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala
+inheritance external dependencies:
+0 items
+class names:
+69 items
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> Assignment
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> Assignment$
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> Assignment$$anonfun$1
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> CommonBuild
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> CommonBuild$class
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> GradingFeedback
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> RecordingLogger
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> RecordingLogger$
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> GradingSummary
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> GradingSummary$
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ScalaTestRunner
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ScalaTestRunner$
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ScalaTestRunner$$anon$2
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$1
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$2
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$3
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$4
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ScalaTestRunner$GradingSummaryUnpickler1$2$
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ScalaTestRunner$LimitedStringBuffer
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> Settings
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> Settings$
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuild.scala -> StudentBuild
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuild.scala -> StudentBuild$
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> MapMapString
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> MapMapString$
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$2
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$3
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$4
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$5
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$8
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$8$$anonfun$apply$10
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$8$$anonfun$apply$9
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$1
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$2
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$3
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$4
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$1
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$2
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$3
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$4
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$5
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$6
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$7
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$8
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$9
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> StyleChecker
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> StyleChecker$
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> StyleChecker$CustomTextOutput
+used names:
+749 items
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> %
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> %%
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> &&
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> <init>
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> ==
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> AbstractFunction9
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> Assignment
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> Build
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> CommonBuild
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> Double
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> ManifestFactory
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> Map
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> ModuleID
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> None
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> Predef
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> Product
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> ScalaRunTime
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> Seq
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> Serializable
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> SettingKey
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> Statics
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> String
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> Tuple2
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> ^
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> _toString
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> anyHash
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> apply
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> asInstanceOf
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> assert
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> assignment
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> assignmentsMap
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> classType
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> collection
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> commonSourcePackages
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> course
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> courseId
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> dependencies
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> doubleHash
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> eq
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> finalizeHash
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> gradeSystemProperties
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> isInstanceOf
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> itemId
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> key
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> maxScore
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> mix
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> package
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> packageName
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> partId
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> reflect
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> runtime
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> sbt
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> scala
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> styleScoreRatio
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> styleSheet
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> toGroupID
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> toString
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> typedProductIterator
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> unary_!
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> ||
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> *
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> +
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> +=
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> -
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> <byname>
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> <init>
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> ==
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> AnyRef
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> Double
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> Error
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> GradingFeedback
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> Level
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> ListBuffer
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> Logger
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> Predef
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> RecordingLogger
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> String
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> StringContext
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> Throwable
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> Unit
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> Value
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> _root_
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> addDetails
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> addSummary
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> allTestsPassedMessage
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> apply
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> augmentString
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> buffer
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> clear
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> collection
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> compileFailedMessage
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> failed
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> failed_=
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> feedbackDetails
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> feedbackSummary
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> format
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> level
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> log
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> maxScore
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> maxScore_=
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> maxStyleScore
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> maxTestScore
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> message
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> mkString
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> msg
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> mutable
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> newMaxScore
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> newStyleScoreRatio
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> nonEmpty
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> package
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> perfectStyleMessage
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> res
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> s
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> sbt
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> scala
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> score
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> stripMargin
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> styleProblemsMessage
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> styleScoreRatio
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> styleScoreRatio_=
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> testCompileFailedMessage
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> testExecutionFailedMessage
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> testsFailedMessage
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> totalGradeMessage
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> totalScore
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> unpackFailedMessage
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> vStyleScore
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> vStyleScore_=
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> vTestScore
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> vTestScore_=
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> !=
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> $anon
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> $m
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> $m$untyped
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> $typecreator1
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> $u
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> &&
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> *
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> +
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> /
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ::
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> :::
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> <
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> <init>
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ==
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> >
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> AbstractFunction3
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Any
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> AnyRef
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Callable
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Classpath
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Codec
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Defaults
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Executors
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> FastTypeTag
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> File
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Function1
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Future
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> GRL
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Generated
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> GradingFeedback
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> GradingSummary
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> GradingSummaryUnpickler1
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> IO
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Int
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Keys
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> LimitedStringBuffer
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> List
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ListBuffer
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Mirror
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Nil
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> None
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Nothing
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Null
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> PReader
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> PickleOps
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Predef
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Process
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ProcessLogger
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Product
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Ref
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ScalaRunTime
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ScalaTestRunner
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Seq
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Serializable
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Settings
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Singleton
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Source
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Statics
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> String
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> StringContext
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> SysProc
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Throwable
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> TimeoutException
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Traversable
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Tuple2
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Type
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> TypeCreator
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> TypeTag
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> U
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Unit
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Universe
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> Unpickler
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> _1
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> _2
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> _3
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> _4
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> _root_
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> _toString
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> allTestsPassed
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> anyHash
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> append
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> apply
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> asInstanceOf
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> asType
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> augmentString
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> beginEntry
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> buf
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> cachedMirror
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> cachedMirror_=
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> canBuildFrom
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> cancel
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> classpath
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> classpathString
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> cmd
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> collection
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> computeSummary
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> concurrent
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> currentMirror
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> data
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> delete
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> destroy
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> e
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> endEntry
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> eq
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> error
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> executor
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> existentials
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> exitValue
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> fallbackSystemCodec
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> feedback
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> file
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> finalizeHash
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> forkProcess
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> fromFile
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> future
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> genUnpickler
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> get
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> getAbsolutePath
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> getClassLoader
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> getLines
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> gradingReporter
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> hintStaticallyElidedType
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> hintTag
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> immutable
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> implicitly
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> individualTestTimeout
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> instragentPath
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> intPickler
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> internal
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> invokeScalaTestInSeparateProcess
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> io
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ir
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> isEmpty
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> isInstanceOf
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> java
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> javaSystemProperties
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> json
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> jsonPickleToUnpickleOps
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> key
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> language
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> length
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> lengthCropped
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> lengthCropped_=
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> lines
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> lines_=
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> lock
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> logError
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> map
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> materializeWeakTypeTag
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> maxOutputLineLength
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> maxOutputLines
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> maxScore
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> maxTestScore
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> mix
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> mkString
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> msg
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> mutable
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> name
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ne
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> newSingleThreadExecutor
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> out
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> outFilePath
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> outfile
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> package
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> pickleFormat
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> pickling
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> prepend
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> println
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> proc
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> process
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> prop
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> readField
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> reader
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> reader1
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> reader2
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> reader3
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> refUnpickler
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> reflect
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> refs
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> replace
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> resourceFiles
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> resourceFilesString
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> result
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> run
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> runLog
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> runPathString
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> runScalaTest
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> runtime
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> runtimeMirror
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> s
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> sbt
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> scala
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> scalaTestCommand
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> scalaTestDefaultWeight
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> scalaTestDefaultWeightProperty
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> scalaTestIndividualTestTimeoutProperty
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> scalaTestReadableFilesProperty
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> scalaTestReportFileProperty
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> scalaTestReporter
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> scalaTestTimeout
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> scaledScore
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> score
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> shortS
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> shutdown
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> staticClass
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> stringPickler
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> stripMargin
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> submit
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> substring
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> summary
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> summaryCmd
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> summaryFilePath
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> summaryFileStr
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> summaryProc
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> sys
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> tag
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> tagKey
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> testClasses
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> testExecutionDebugLog
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> testExecutionFailed
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> testRunPath
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> testsFailed
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> timeout
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> to
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> toList
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> toLong
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> toString
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> toTypeConstructor
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> tpe
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> trim
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> tupled
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> typeString
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> typedProductIterator
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> unary_!
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> unchecked
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> universe
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> unlock
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> unpickle
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> unpickleSummary
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> unpickler$unpickle$1
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> unpickler$unpickle$2
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> unpickler$unpickle$3
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> util
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> value
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> weakTypeOf
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> ||
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> *
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> <init>
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> AnyRef
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> Settings
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> individualTestTimeout
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> maxOutputLineLength
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> maxOutputLines
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> maxSubmitFileSize
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> mb
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> scala
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> scalaTestDefaultWeight
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> scalaTestDefaultWeightProperty
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> scalaTestIndividualTestTimeoutProperty
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> scalaTestReadableFilesProperty
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> scalaTestReportFileProperty
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> scalaTestReporter
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> scalaTestTimeout
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> testResultsFileName
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuild.scala -> <init>
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuild.scala -> StudentBuild
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuild.scala -> StudentBuildLike
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> !=
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> $p1
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> $p2
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> $p3
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> $p4
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> $p5
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> &&
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> +
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> +=
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> ---
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> /
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> ::
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> :=
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> <
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> <init>
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> ==
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> >
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> >=
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> AList
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> AbstractFunction1
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Any
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Append
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Array
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Base64
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Byte
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Codec
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> CommonBuild
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Compile
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> ConfigKey
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Def
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Defaults
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Failure
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> File
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> FileInputStream
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> FullInstance
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Http
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> HttpOptions
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> HttpResponse
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> IOException
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> InitializeInstance
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> InputKey
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> InputTask
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> InputWrapper
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> JSON
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Keys
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> List
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> ManifestFactory
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Map
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> MapMapString
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Nil
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> None
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Nothing
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> ParserInput
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> ParserInstance
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Path
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Predef
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Product
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Project
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> ScalaRunTime
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Scoped
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Seq
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Serializable
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Settings
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> String
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StringContext
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StudentBuildLike
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> StyleChecker
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Success
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> TaskInstance
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> TaskKey
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> TaskStreams
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Test
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Try
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> Unit
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> _1
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> _2
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> _3
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> _4
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> _5
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> _hashCode
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> _root_
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> _toString
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> allFiles
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> alternative
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> apache
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> app
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> append1
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> appendSeq
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> apply
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> args
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> asInstanceOf
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> asString
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> assess
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> assignment
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> assignmentDetails
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> assignmentKey
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> assignmentName
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> assignments
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> assignmentsMap
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> augmentString
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> base
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> base64Jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> baseDirectory
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> binary
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> body
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> bytes
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> canBuildFrom
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> cde
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> classType
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> close
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> code
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> codec
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> collection
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> commonSourcePackages
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> commonSourcePaths
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> commons
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> compile
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> configurationToKey
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> connTimeout
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> connectMsg
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> course
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> courseId
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> courseName
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> data
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> e
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> email
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> encodeBase64
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> eq
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> errPrefix
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> error
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> ex
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> exception
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> exists
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> f
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> failSubmit
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> failedConnectMsg
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> failedSubmitMsg
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> fallbackSystemCodec
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> feedback
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> file
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> fileLength
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> filesToFinder
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> filter
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> flat
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> getAbsolutePath
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> getPath
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> headers
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> hs
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> http
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> immutable
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> in
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> inConfig
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> info
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> inputErr
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> inputKey
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> io
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> is
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> isInstanceOf
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> itemId
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> jar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> java
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> json
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> key
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> learnerMsg
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> length
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> libraryDependencies
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> log
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> logger
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> macroValueI
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> macroValueIT
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> make
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> map
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> maxResult
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> maxSubmitFileSize
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> ne
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> nsc
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> option
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> org
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> package
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> packageSubmission
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> packageSubmissionFiles
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> packageTaskSettings
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> pair
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> parseFull
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> parsed
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> parserToInput
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> parser_☃☃
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> parsing
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> partId
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> path
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> postData
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> postSubmission
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> prepareJar
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> project
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> pure
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> read
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> reflect
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> relativeTo
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> reportCourseraResponse
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> resp
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> respBody
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> response
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> result
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> richFile
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> root
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> runtime
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> s
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> sbt
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> scala
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> scalaSource
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> scalaTestDependency
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> scalaj
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> score
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> sdirs
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> secret
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> set
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> settings
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> singleFileFinder
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> sizeRead
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> sourceFiles
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> sourceMappingsWithoutPackages
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> sources
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> spaceDelimited
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> srcs
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> startsWith
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> streams
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> string2path
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> stripMargin
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> styleCheck
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> styleCheckSetting
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> styleSheet
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> submit
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> submitLocal
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> submitLocalSetting
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> submitSetting
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> successfulSubmitMsg
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> sys
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> t6ToTable6
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> toITask
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> toInt
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> toSParser
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> toString
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> tools
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> tuple2
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> tuple5
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> typedProductIterator
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> unary_!
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> unchecked
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> unmanagedSourceDirectories
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> unmanagedSources
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> util
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> value
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> warn
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> withoutCommonSources
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> wrapInitTask_☃☃
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> wrapInit_☃☃
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> writeAll
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> x
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> |
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> ||
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> +
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> -
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> <init>
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> ==
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> AnyRef
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> ByteArrayOutputStream
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> ConfigFactory
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> CustomTextOutput
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> Directory
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> File
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> FileSpec
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> Int
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> Message
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> MessageHelper
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> None
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> Nothing
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> Option
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> Output
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> OutputResult
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> Predef
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> PrintStream
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> ScalastyleChecker
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> ScalastyleConfiguration
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> Seq
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> String
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> StringContext
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> StyleChecker
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> T
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> Tuple2
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> Unit
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> _root_
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> args
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> asInstanceOf
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> augmentString
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> checkFiles
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> column
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> columnNumber
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> com
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> config
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> configFile
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> customMessage
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> errors
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> file
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> fileCount
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> fileCount_=
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> fileSpec
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> files
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> findMessage
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> getAbsolutePath
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> getFiles
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> io
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> isInstanceOf
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> java
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> key
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> level
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> line
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> lineNumber
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> load
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> m
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> math
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> max
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> maxResult
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> message
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> messageHelper
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> messages
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> msg
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> name
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> org
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> output
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> outputResult
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> package
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> penalties
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> pos
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> print
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> println
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> readFromXml
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> report
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> s
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> sbt
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> scala
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> scalastyle
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> score
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> sources
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> stream
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> stripMargin
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> styleSheetPath
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> text
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> toString
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> typesafe
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> warnings
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> x
+product stamps:
+69 items
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\Assignment$$anonfun$1.class -> lastModified(1483764004785)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\Assignment$.class -> lastModified(1483764004778)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\Assignment.class -> lastModified(1483764004752)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\CommonBuild$class.class -> lastModified(1483764004803)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\CommonBuild.class -> lastModified(1483764004797)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\GradingFeedback.class -> lastModified(1483764004863)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\GradingSummary$.class -> lastModified(1483764004899)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\GradingSummary.class -> lastModified(1483764004888)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\MapMapString$.class -> lastModified(1483764004963)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\MapMapString.class -> lastModified(1483764004950)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger$.class -> lastModified(1483764004998)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger.class -> lastModified(1483764004971)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anon$2.class -> lastModified(1483764005079)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$1.class -> lastModified(1483764005084)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$2.class -> lastModified(1483764005093)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$3.class -> lastModified(1483764005099)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$4.class -> lastModified(1483764005112)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1.class -> lastModified(1483764005119)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2.class -> lastModified(1483764005129)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$.class -> lastModified(1483764005071)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1.class -> lastModified(1483764005190)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1.class -> lastModified(1483764005182)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$.class -> lastModified(1483764005152)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$LimitedStringBuffer.class -> lastModified(1483764005213)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner.class -> lastModified(1483764005004)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\Settings$.class -> lastModified(1483764005234)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\Settings.class -> lastModified(1483764005229)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuild$.class -> lastModified(1483764005264)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuild.class -> lastModified(1483764005261)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$2.class -> lastModified(1483764005328)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$3.class -> lastModified(1483764005337)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1.class -> lastModified(1483764005361)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4.class -> lastModified(1483764005353)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1.class -> lastModified(1483764005319)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$5.class -> lastModified(1483764005375)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$8$$anonfun$apply$10.class -> lastModified(1483764005400)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$8$$anonfun$apply$9.class -> lastModified(1483764005428)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$8.class -> lastModified(1483764005387)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$1.class -> lastModified(1483764005445)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$2.class -> lastModified(1483764005458)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$3.class -> lastModified(1483764005470)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$4.class -> lastModified(1483764005482)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$1.class -> lastModified(1483764005493)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$2.class -> lastModified(1483764005499)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$3.class -> lastModified(1483764005502)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$4.class -> lastModified(1483764005509)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$5.class -> lastModified(1483764005511)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$6.class -> lastModified(1483764005518)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$7.class -> lastModified(1483764005527)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$8.class -> lastModified(1483764005530)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$9.class -> lastModified(1483764005533)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1483764005562)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1483764005558)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2.class -> lastModified(1483764005546)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1.class -> lastModified(1483764005537)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6.class -> lastModified(1483764005618)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class -> lastModified(1483764005628)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1483764005630)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8.class -> lastModified(1483764005637)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1.class -> lastModified(1483764005642)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1.class -> lastModified(1483764005649)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2.class -> lastModified(1483764005651)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1483764005611)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5.class -> lastModified(1483764005582)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1.class -> lastModified(1483764005570)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike.class -> lastModified(1483764005313)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$.class -> lastModified(1483764005666)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$CustomTextOutput.class -> lastModified(1483764005681)
+N:\Scala Course and Imp Resources\Coursera course\example\project\target\scala-2.10\sbt-0.13\classes\StyleChecker.class -> lastModified(1483764005657)
+source stamps:
+7 items
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> hash(363e0e0204fc774585c0221c2137762fe3256bcc)
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> hash(465ad938dd5b956be8d9c8c4e0e5ff0ccd34b760)
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> hash(3b19114f33252d351cf5f1912e987b7582c7ddb7)
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> hash(d7e0072c3c0c16a01ad0dc727c97ecccf8f7791a)
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuild.scala -> hash(ec89d09f3293126eee5f4127779e8bf052674095)
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> hash(29ad45718bb5700ac1a241254d49b34d77edd762)
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> hash(8c82d5368f9de5f6640c29518229fdf6d796c5af)
+binary stamps:
+19 items
+C:\Program Files\Java\jre1.8.0_91\lib\rt.jar -> lastModified(1463014895888)
+C:\Users\anike_000\.ivy2\cache\com.typesafe\config\bundles\config-1.2.0.jar -> lastModified(1389798583000)
+C:\Users\anike_000\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar -> lastModified(1415283333000)
+C:\Users\anike_000\.ivy2\cache\org.scala-lang.modules\scala-pickling_2.10\jars\scala-pickling_2.10-0.10.0.jar -> lastModified(1423252686000)
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.9.jar -> lastModified(1439253124000)
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar -> lastModified(1439253119000)
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.9.jar -> lastModified(1439253231000)
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.9.jar -> lastModified(1439253134000)
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.9.jar -> lastModified(1439253183000)
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.9.jar -> lastModified(1439253150000)
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar -> lastModified(1439253272000)
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar -> lastModified(1439253285000)
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar -> lastModified(1439253291000)
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.9.jar -> lastModified(1439253204000)
+C:\Users\anike_000\.ivy2\cache\org.scalaj\scalaj-http_2.10\jars\scalaj-http_2.10-2.2.1.jar -> lastModified(1452005615000)
+C:\Users\anike_000\.ivy2\cache\org.scalastyle\scalastyle_2.10\jars\scalastyle_2.10-0.8.0.jar -> lastModified(1449002502000)
+C:\Users\anike_000\.sbt\boot\scala-2.10.5\lib\scala-compiler.jar -> lastModified(1425002097000)
+C:\Users\anike_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar -> lastModified(1425002069000)
+C:\Users\anike_000\.sbt\boot\scala-2.10.5\lib\scala-reflect.jar -> lastModified(1425002084000)
+class names:
+19 items
+C:\Program Files\Java\jre1.8.0_91\lib\rt.jar -> java.lang.Object
+C:\Users\anike_000\.ivy2\cache\com.typesafe\config\bundles\config-1.2.0.jar -> com.typesafe.config.ConfigFactory
+C:\Users\anike_000\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar -> org.apache.commons.codec.binary.Base64
+C:\Users\anike_000\.ivy2\cache\org.scala-lang.modules\scala-pickling_2.10\jars\scala-pickling_2.10-0.10.0.jar -> scala.pickling.FastTypeTag
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.9.jar -> sbt.appmacro.Instance$
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar -> sbt.Init
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.9.jar -> sbt.inc.Analysis
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.9.jar -> sbt.RichFile
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.9.jar -> sbt.ModuleID
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.9.jar -> sbt.Logger
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar -> sbt.TaskKey
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar -> sbt.Keys$
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar -> sbt.package$
+C:\Users\anike_000\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.9.jar -> sbt.Task
+C:\Users\anike_000\.ivy2\cache\org.scalaj\scalaj-http_2.10\jars\scalaj-http_2.10-2.2.1.jar -> scalaj.http.HttpResponse
+C:\Users\anike_000\.ivy2\cache\org.scalastyle\scalastyle_2.10\jars\scalastyle_2.10-0.8.0.jar -> org.scalastyle.Output
+C:\Users\anike_000\.sbt\boot\scala-2.10.5\lib\scala-compiler.jar -> scala.tools.nsc.io.package$
+C:\Users\anike_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar -> scala.Unit
+C:\Users\anike_000\.sbt\boot\scala-2.10.5\lib\scala-reflect.jar -> scala.reflect.io.File$
+internal apis:
+7 items
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB97aSbAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAOnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cN2n3ph0AAZub3RpZnlzcQB+AAwb9KbLdAAEd2FpdHNxAH4ADMXNV4t0AAhtYXhTY29yZXNxAH4ADJnmT4l0AAZjb3Vyc2VzcQB+AAyoLgmTdAAOY29weSRkZWZhdWx0JDJzcQB+AAwPal61dAANJGFzSW5zdGFuY2VPZnNxAH4ADGgv15p0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADGNroG10AAxidWlsZExvYWRlcnNzcQB+AAwox+mMdAAIY291cnNlSWRzcQB+AAxDc151dAAMcHJvZHVjdEFyaXR5c3EAfgAMFX1of3QABmVxdWFsc3NxAH4ADMDOApV0AA9zdHlsZVNjb3JlUmF0aW9zcQB+AAygL6SvdAAOY29weSRkZWZhdWx0JDlzcQB+AAwDtJbzdAAMYXNJbnN0YW5jZU9mc3EAfgAMAcmbwnQAEnByb2plY3REZWZpbml0aW9uc3NxAH4ADK2E8Ip0AAxzeW5jaHJvbml6ZWRzcQB+AAy3ZyCkdAANJGlzSW5zdGFuY2VPZnNxAH4ADKksReN0AA5jb3B5JGRlZmF1bHQkOHNxAH4ADD6l82d0AAtwYWNrYWdlTmFtZXNxAH4ADJVVBSR0AAhjYW5FcXVhbHNxAH4ADJHrqUR0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADHk/jAV0AA1wcm9kdWN0UHJlZml4c3EAfgAMljDAwnQACW5vdGlmeUFsbHNxAH4ADN8VaH10AAtyb290UHJvamVjdHNxAH4ADH2GxQx0AANrZXlzcQB+AAzht4KddAAMaXNJbnN0YW5jZU9mc3EAfgAM1PMAuHQABjxpbml0PnNxAH4ADKeOrGZ0ABRjb21tb25Tb3VyY2VQYWNrYWdlc3NxAH4ADCo+EkF0AAI9PXNxAH4ADJW6J8l0AAtDb21tb25CdWlsZHNxAH4ADH6XURd0AAVjbG9uZXNxAH4ADLH2tnx0AA5jb3B5JGRlZmF1bHQkN3NxAH4ADPWRfLJ0AApzdHlsZVNoZWV0c3EAfgAMH+YrjHQABiRpbml0JHNxAH4ADK96j2N0ABNzY2FsYVRlc3REZXBlbmRlbmN5c3EAfgAMxdnCwnQABml0ZW1JZHNxAH4ADADWcKB0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADLC6uSN0AARjb3B5c3EAfgAMR3A9aXQACHRvU3RyaW5nc3EAfgAMLhDAR3QACkFzc2lnbm1lbnRzcQB+AAwAM84ddAACIT1zcQB+AAxXZYqAdAAIcHJvamVjdHNzcQB+AAw2AlFedAAIZ2V0Q2xhc3NzcQB+AAzNNggNdAAOY29weSRkZWZhdWx0JDFzcQB+AAyuR2CpdAAKYXNzaWdubWVudHNxAH4ADAUctbN0AA5jb3B5JGRlZmF1bHQkNnNxAH4ADCN2V+Z0AAJuZXNxAH4ADLsX5H50AAZwYXJ0SWRzcQB+AAzXtrE+dAAVZ3JhZGVTeXN0ZW1Qcm9wZXJ0aWVzc3EAfgAMgHcVbXQADGRlcGVuZGVuY2llc3NxAH4ADBxFlW10AAJlcXNxAH4ADPmRwot0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxnbnaedAAIc2V0dGluZ3NzcQB+AAxYg3aYdAACIyNzcQB+AAzEYG8ydAAIZmluYWxpemVzcQB+AAzv2nJqdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxCnWYYdAAIaGFzaENvZGVzcQB+AAyLRzGzdAAOYXNzaWdubWVudHNNYXBzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AF11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AogFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ai0wACWluaGVyaXRlZHEAfgCLTAAHcGFyZW50c3EAfgCLeHEAfgCpc3EAfgCiAXVxAH4AhgAAAABwc3EAfgCiAXVxAH4AhgAAAABwc3EAfgCiAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AqHQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AqHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AwnNxAH4AtXEAfgC4c3EAfgC5c3EAfgC8dXEAfgC/AAAAA3NxAH4AwXQABGphdmFzcQB+AMF0AAJpb3EAfgDGc3EAfgC1dAAHUHJvZHVjdHEAfgC7c3EAfgC1dAAGRXF1YWxzcQB+ALtzcQB+ALV0AAZPYmplY3RzcQB+ALlzcQB+ALx1cQB+AL8AAAADc3EAfgDBcQB+AMxzcQB+AMF0AARsYW5ncQB+AMZzcQB+ALV0AANBbnlxAH4Au3Bwc3EAfgCIcQB+AJV1cQB+AJYAAAAAc3EAfgCYAXEAfgBJdXEAfgCaAAAAAH5xAH4AnHQABVRyYWl0dXEAfgCgAAAAAHNxAH4AogFxAH4AqnBzcQB+AKIBc3EAfgCsc3EAfgCiAXVxAH4AhgAAAABwc3EAfgCiAXVxAH4AhgAAAABwc3EAfgCiAXVxAH4AswAAAANzcQB+ALV0AAVCdWlsZHNxAH4AuXNxAH4AvHVxAH4AvwAAAAJzcQB+AMF0AANzYnRxAH4AxnNxAH4AtXEAfgDUc3EAfgC5c3EAfgC8dXEAfgC/AAAAA3NxAH4AwXEAfgDMc3EAfgDBcQB+ANpxAH4AxnNxAH4AtXEAfgDcc3EAfgC5c3EAfgC8dXEAfgC/AAAAAnNxAH4AwXEAfgDEcQB+AMZwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZdzm+RnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGROOlxTY2FsYSBDb3Vyc2UgYW5kIEltcCBSZXNvdXJjZXNcQ291cnNlcmEgY291cnNlXGV4YW1wbGVccHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMFxzYnQtMC4xM1xjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUNj4OAgT8d0WFwCIcITd2L+Mla8w=
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAlGPXfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAARXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBC7zYp0AAZub3RpZnlzcQB+AAyCztWtdAANbWF4VG90YWxTY29yZXNxAH4ADMYUUq50AAdzdWNjZXNzc3EAfgAMphAPoHQABHdhaXRzcQB+AAxQNcW9dAAIbWF4U2NvcmVzcQB+AAykXYZJdAARdGVzdENvbXBpbGVGYWlsZWRzcQB+AAxNwOCOdAANJGFzSW5zdGFuY2VPZnNxAH4ADLHH21t0AAV0cmFjZXNxAH4ADISTlhp0ABJhbnNpQ29kZXNTdXBwb3J0ZWRzcQB+AAzVbJ8odAATdW5wYWNrRmFpbGVkTWVzc2FnZXNxAH4ADDC2mB10AAR3YXJuc3EAfgAMXX+ws3QACWhhc0Vycm9yc3NxAH4ADJEJDiR0AAx1bnBhY2tGYWlsZWRzcQB+AAyokdaRdAAHdmVyYm9zZXNxAH4ADGpOrIt0AAZlcXVhbHNzcQB+AAxEC/irdAAPc3R5bGVTY29yZVJhdGlvc3EAfgAMiXnPNHQADHBlcmZlY3RTdHlsZXNxAH4ADEsf4Bl0ABN0ZXN0RXhlY3V0aW9uRmFpbGVkc3EAfgAMkTen9XQABWNsZWFyc3EAfgAM2xKuB3QACmFkZERldGFpbHNzcQB+AAyh1XqndAAMYXNJbnN0YW5jZU9mc3EAfgAMwc/CsnQAD2ZlZWRiYWNrU3VtbWFyeXNxAH4ADFfWj9Z0ABF0b3RhbEdyYWRlTWVzc2FnZXNxAH4ADAM88u50AAxtYXhUZXN0U2NvcmVzcQB+AAyUW+2ZdAAKYWRkU3VtbWFyeXNxAH4ADBi1Gbx0AAxzeW5jaHJvbml6ZWRzcQB+AAzJGhHrdAAUc3R5bGVQcm9ibGVtc01lc3NhZ2VzcQB+AAxrTMMQdAAGZmFpbGVkc3EAfgAM6SD83XQAE3BlcmZlY3RTdHlsZU1lc3NhZ2VzcQB+AAywnrPxdAANJGlzSW5zdGFuY2VPZnNxAH4ADNhlKS50AA1tYXhTdHlsZVNjb3Jlc3EAfgAMbY6J73QABmJ1ZmZlcnNxAH4ADIXFUCt0AA5mZWVkYmFja1N0cmluZ3NxAH4ADIbO+N10AARpbmZvc3EAfgAMLFjfS3QACW5vdGlmeUFsbHNxAH4ADA0yX1F0AA5hbGxUZXN0c1Bhc3NlZHNxAH4ADL8X5g90AAVkZWJ1Z3NxAH4ADKciWCd0AAxpc0luc3RhbmNlT2ZzcQB+AAxLs/5hdAAPUmVjb3JkaW5nTG9nZ2Vyc3EAfgAMJorGuHQABjxpbml0PnNxAH4ADHjqgxJ0AA1jb21waWxlRmFpbGVkc3EAfgAMGZWR+XQACnZUZXN0U2NvcmVzcQB+AAyT13ctdAAMcmVhZEFuZENsZWFyc3EAfgAMqnwdiXQABWVycm9yc3EAfgAMQS1B+nQAFXRlc3RFeGVjdXRpb25EZWJ1Z0xvZ3NxAH4ADEGhRJ10AA9HcmFkaW5nRmVlZGJhY2tzcQB+AAxH9HJMdAANc3R5bGVQcm9ibGVtc3NxAH4ADL+Eq0d0AAp0b3RhbFNjb3Jlc3EAfgAMzA8sqHQAAj09c3EAfgAMbCN9H3QAGnRlc3RFeGVjdXRpb25GYWlsZWRNZXNzYWdlc3EAfgAMfgdKbXQABWNsb25lc3EAfgAM8sq0+nQAC3NldE1heFNjb3Jlc3EAfgAM4fepfnQAD2ZlZWRiYWNrRGV0YWlsc3NxAH4ADBlRCG10ABVhbGxUZXN0c1Bhc3NlZE1lc3NhZ2VzcQB+AAyOBV4MdAAIdG9TdHJpbmdzcQB+AAx8u+u4dAACIT1zcQB+AAxKKjxjdAASdGVzdHNGYWlsZWRNZXNzYWdlc3EAfgAMWrNGunQACGdldENsYXNzc3EAfgAMmWCglHQAAm5lc3EAfgAM9rxYMHQAGHRlc3RDb21waWxlRmFpbGVkTWVzc2FnZXNxAH4ADDTU3rZ0AAhpc0ZhaWxlZHNxAH4ADM3fil90AAt2U3R5bGVTY29yZXNxAH4ADCGTlm10AAJlcXNxAH4ADEcxRwR0AANsb2dzcQB+AAwhfrPEdAACIyNzcQB+AAy6gSIvdAAIZmluYWxpemVzcQB+AAwvC+TKdAAIaGFzaENvZGVzcQB+AAzK5pHsdAALdGVzdHNGYWlsZWRzcQB+AAydTrptdAAUY29tcGlsZUZhaWxlZE1lc3NhZ2VzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCheHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AGl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AuAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AoUwACWluaGVyaXRlZHEAfgChTAAHcGFyZW50c3EAfgCheHEAfgC/c3EAfgC4AXVxAH4AnAAAAABwc3EAfgC4AXVxAH4AnAAAAABwc3EAfgC4AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AvnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AvnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4A13QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A2HNxAH4Ay3QAA0FueXNxAH4Az3NxAH4A0nVxAH4A1QAAAAJzcQB+ANd0AAVzY2FsYXEAfgDecHBzcQB+AJ5xAH4Aq3VxAH4ArAAAAABzcQB+AK4AcQB+AFt1cQB+ALAAAAAAfnEAfgCydAAGTW9kdWxldXEAfgC2AAAAAHNxAH4AuAFxAH4AwHBzcQB+ALgBc3EAfgDCc3EAfgC4AXVxAH4AnAAAAABwc3EAfgC4AXVxAH4AnAAAAABwc3EAfgC4AXVxAH4AyQAAAARzcQB+AMt0AAZMb2dnZXJzcQB+AM9zcQB+ANJ1cQB+ANUAAAACc3EAfgDXdAADc2J0cQB+AN5zcQB+AMt0AAZMb2dnZXJzcQB+AM9zcQB+ANJ1cQB+ANUAAAACc3EAfgDXdAAFeHNidGlxAH4A3nNxAH4Ay3EAfgDOc3EAfgDPc3EAfgDSdXEAfgDVAAAAA3NxAH4A13EAfgDac3EAfgDXcQB+ANxxAH4A3nNxAH4Ay3EAfgDgc3EAfgDPc3EAfgDSdXEAfgDVAAAAAnNxAH4A13EAfgDlcQB+AN5wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZdzm+RnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGROOlxTY2FsYSBDb3Vyc2UgYW5kIEltcCBSZXNvdXJjZXNcQ291cnNlcmEgY291cnNlXGV4YW1wbGVccHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMFxzYnQtMC4xM1xjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAURlrZON1blWvo2cjE4OX/DM00t2A=
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAYVU8FAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAL3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBztt8F0AAZub3RpZnlzcQB+AAwOb52LdAANbGVuZ3RoQ3JvcHBlZHNxAH4ADGTryRN0AA5jb21wdXRlU3VtbWFyeXNxAH4ADF2hOc10AAR3YWl0c3EAfgAMxk52unQACG1heFNjb3Jlc3EAfgAMYZ9rYXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMoytZxnQADSRhc0luc3RhbmNlT2ZzcQB+AAwA4PQXdAATTGltaXRlZFN0cmluZ0J1ZmZlcnNxAH4ADFkQAjt0AAxwcm9kdWN0QXJpdHlzcQB+AAyMnn1rdAAGZXF1YWxzc3EAfgAMMVey7XQAEHNjYWxhVGVzdENvbW1hbmRzcQB+AAxEneLWdAAMYXNJbnN0YW5jZU9mc3EAfgAMnN2UP3QADHJ1blNjYWxhVGVzdHNxAH4ADMqFVWB0AAxzeW5jaHJvbml6ZWRzcQB+AAwv3DN2dAAFc2NvcmVzcQB+AAwn1KdLdAANJGlzSW5zdGFuY2VPZnNxAH4ADDM2mVB0AANidWZzcQB+AAwa8NdFdAAIY2FuRXF1YWxzcQB+AAwkX2NVdAANcHJvZHVjdFByZWZpeHNxAH4ADC4fVYx0AAlub3RpZnlBbGxzcQB+AAwOLPSCdAAMaXNJbnN0YW5jZU9mc3EAfgAM26gLYHQADnNjYWxhVGVzdEdyYWRlc3EAfgAMP+F5vnQACGZlZWRiYWNrc3EAfgAMIRMekHQABjxpbml0PnNxAH4ADLRU3Nd0AA9TY2FsYVRlc3RSdW5uZXJzcQB+AAxVO4qjdAACPT1zcQB+AAyjz6UbdAAFY2xvbmVzcQB+AAxXO4hgdAAgaW52b2tlU2NhbGFUZXN0SW5TZXBhcmF0ZVByb2Nlc3NzcQB+AAxims0ddAAOY29weSRkZWZhdWx0JDNzcQB+AAzf/oStdAAEY29weXNxAH4ADIIJqd50AAh0b1N0cmluZ3NxAH4ADOozddV0AA5HcmFkaW5nU3VtbWFyeXNxAH4ADGXATgV0AA1ydW5QYXRoU3RyaW5nc3EAfgAMe6n2cnQAAiE9c3EAfgAMyTGF53QACGdldENsYXNzc3EAfgAMM/XGynQADmNvcHkkZGVmYXVsdCQxc3EAfgAMbB3Qs3QABWxpbmVzc3EAfgAMZCnk03QAAm5lc3EAfgAMD2rKrXQAC2ZvcmtQcm9jZXNzc3EAfgAMJf6mInQAAmVxc3EAfgAMDJ5FfnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADEx1ztx0AAIjI3NxAH4ADJWUmjB0AAhmaW5hbGl6ZXNxAH4ADGNThjV0AA5wcm9kdWN0RWxlbWVudHNxAH4ADFKSlaR0AAhoYXNoQ29kZXNxAH4ADN6scAF0AA91bnBpY2tsZVN1bW1hcnlzcQB+AAxHFkH5dAAGYXBwZW5kc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AdXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwBHEAfgBNdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AIwBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHVMAAlpbmhlcml0ZWRxAH4AdUwAB3BhcmVudHNxAH4AdXhxAH4Ak3NxAH4AjAF1cQB+AHAAAAAAcHNxAH4AjAF1cQB+AHAAAAAAcHNxAH4AjAF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJJ0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKxzcQB+AJ9xAH4AonNxAH4Ao3NxAH4ApnVxAH4AqQAAAANzcQB+AKt0AARqYXZhc3EAfgCrdAACaW9xAH4AsHNxAH4An3QAB1Byb2R1Y3RxAH4ApXNxAH4An3QABkVxdWFsc3EAfgClc3EAfgCfdAAGT2JqZWN0c3EAfgCjc3EAfgCmdXEAfgCpAAAAA3NxAH4Aq3EAfgC2c3EAfgCrdAAEbGFuZ3EAfgCwc3EAfgCfdAADQW55cQB+AKVwcHNxAH4AcnEAfgB/dXEAfgCAAAAAAHNxAH4AggBxAH4AP3VxAH4AhAAAAAB+cQB+AIZ0AAZNb2R1bGV1cQB+AIoAAAAAc3EAfgCMAXEAfgCUcHNxAH4AjAFzcQB+AJZzcQB+AIwBdXEAfgBwAAAAAHBzcQB+AIwBdXEAfgBwAAAAAHBzcQB+AIwBdXEAfgCdAAAAAnNxAH4An3EAfgC+c3EAfgCjc3EAfgCmdXEAfgCpAAAAA3NxAH4Aq3EAfgC2c3EAfgCrcQB+AMRxAH4AsHNxAH4An3EAfgDGc3EAfgCjc3EAfgCmdXEAfgCpAAAAAnNxAH4Aq3EAfgCucQB+ALBwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZdzm+RnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGROOlxTY2FsYSBDb3Vyc2UgYW5kIEltcCBSZXNvdXJjZXNcQ291cnNlcmEgY291cnNlXGV4YW1wbGVccHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMFxzYnQtMC4xM1xjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUOxkRTzMlLTUc9fGRLph7dYLH3bc=
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBdsVePAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPd8JSx0AA5tYXhPdXRwdXRMaW5lc3NxAH4ADN3xDDp0AAZub3RpZnlzcQB+AAw2/uzkdAAIU2V0dGluZ3NzcQB+AAwEfLCJdAAEd2FpdHNxAH4ADI25n6p0AA0kYXNJbnN0YW5jZU9mc3EAfgAMFEU/Y3QABmVxdWFsc3NxAH4ADHByRrp0ABtzY2FsYVRlc3RSZXBvcnRGaWxlUHJvcGVydHlzcQB+AAxdFnjHdAAMYXNJbnN0YW5jZU9mc3EAfgAMM5zYrXQADHN5bmNocm9uaXplZHNxAH4ADKOMsn90AA0kaXNJbnN0YW5jZU9mc3EAfgAMUTHkZ3QAE3Rlc3RSZXN1bHRzRmlsZU5hbWVzcQB+AAw5L4IPdAAec2NhbGFUZXN0RGVmYXVsdFdlaWdodFByb3BlcnR5c3EAfgAM96vKa3QACW5vdGlmeUFsbHNxAH4ADPPzVup0AB5zY2FsYVRlc3RSZWFkYWJsZUZpbGVzUHJvcGVydHlzcQB+AAzF6MOjdAARc2NhbGFUZXN0UmVwb3J0ZXJzcQB+AAwpuM4PdAAMaXNJbnN0YW5jZU9mc3EAfgAMXCSaXXQAJnNjYWxhVGVzdEluZGl2aWR1YWxUZXN0VGltZW91dFByb3BlcnR5c3EAfgAMbTiV0XQAFnNjYWxhVGVzdERlZmF1bHRXZWlnaHRzcQB+AAyf9aKtdAATbWF4T3V0cHV0TGluZUxlbmd0aHNxAH4ADANEpKB0AAI9PXNxAH4ADNPY6fB0AAVjbG9uZXNxAH4ADADFmSl0ABVpbmRpdmlkdWFsVGVzdFRpbWVvdXRzcQB+AAyHISJRdAARbWF4U3VibWl0RmlsZVNpemVzcQB+AAxd6ZG+dAAIdG9TdHJpbmdzcQB+AAwH+1wtdAACIT1zcQB+AAzvdUvJdAAIZ2V0Q2xhc3NzcQB+AAyrNAo6dAAQc2NhbGFUZXN0VGltZW91dHNxAH4ADN1xJyJ0AAJuZXNxAH4ADDkpUhF0AAJlcXNxAH4ADNl3oMF0AAIjI3NxAH4ADETFA2d0AAhmaW5hbGl6ZXNxAH4ADLXBz790AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AE3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AbgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB1c3EAfgBuAXVxAH4AUgAAAABwc3EAfgBuAXVxAH4AUgAAAABwc3EAfgBuAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AjXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AjnNxAH4AgXQAA0FueXNxAH4AhXNxAH4AiHVxAH4AiwAAAAJzcQB+AI10AAVzY2FsYXEAfgCUcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWXc5vkZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABkTjpcU2NhbGEgQ291cnNlIGFuZCBJbXAgUmVzb3VyY2VzXENvdXJzZXJhIGNvdXJzZVxleGFtcGxlXHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNfgByw8DBagGtDccnyX7Mz493ka
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuild.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBRrumIAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAALHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNwbmbh0AAZub3RpZnlzcQB+AAwpnkOOdAAEd2FpdHNxAH4ADMhEX0l0AAZjb3Vyc2VzcQB+AAxKh8zAdAANJGFzSW5zdGFuY2VPZnNxAH4ADJ21jvJ0AAxidWlsZExvYWRlcnNzcQB+AAxhC4OUdAAIY291cnNlSWRzcQB+AAyDofcFdAAEcm9vdHNxAH4ADBoexuZ0AAZlcXVhbHNzcQB+AAwv3CK3dAAMYXNJbnN0YW5jZU9mc3EAfgAM6qMJq3QAEnByb2plY3REZWZpbml0aW9uc3NxAH4ADKZQ/e50AAxzeW5jaHJvbml6ZWRzcQB+AAyrTQLbdAANJGlzSW5zdGFuY2VPZnNxAH4ADDA6UHJ0ABJzdWJtaXRMb2NhbFNldHRpbmdzcQB+AAy750zIdAAMZW5jb2RlQmFzZTY0c3EAfgAMyjpFfnQABnN1Ym1pdHNxAH4ADD8bnit0AAlub3RpZnlBbGxzcQB+AAyJdxdTdAANc3VibWl0U2V0dGluZ3NxAH4ADByXkiN0AAtyb290UHJvamVjdHNxAH4ADDpZ06V0AAxpc0luc3RhbmNlT2ZzcQB+AAyOq+HzdAAKcHJlcGFyZUphcnNxAH4ADKLsVSt0AApzdHlsZUNoZWNrc3EAfgAMQzLuF3QAFGNvbW1vblNvdXJjZVBhY2thZ2Vzc3EAfgAMVoN8GXQAAj09c3EAfgAMfUs303QAC3N1Ym1pdExvY2Fsc3EAfgAMOg+CC3QABWNsb25lc3EAfgAMA8dlTHQAE3NjYWxhVGVzdERlcGVuZGVuY3lzcQB+AAzqrhaKdAAdc291cmNlTWFwcGluZ3NXaXRob3V0UGFja2FnZXNzcQB+AAzqtXp7dAAWcGFja2FnZVN1Ym1pc3Npb25GaWxlc3NxAH4ADP6J6Bd0ABFwYWNrYWdlU3VibWlzc2lvbnNxAH4ADIZYxJ50AAh0b1N0cmluZ3NxAH4ADAojRQ10AAIhPXNxAH4ADLeFaiZ0AAhwcm9qZWN0c3NxAH4ADBFIMXN0AAxTdHVkZW50QnVpbGRzcQB+AAwhqIOHdAAIZ2V0Q2xhc3NzcQB+AAx/Sji5dAAKYXNzaWdubWVudHNxAH4ADCV0i3F0AAJuZXNxAH4ADK7Md5N0ABFzdHlsZUNoZWNrU2V0dGluZ3NxAH4ADGqbvnl0AAJlcXNxAH4ADBAYFzJ0AAhzZXR0aW5nc3NxAH4ADLirWHJ0AApmYWlsU3VibWl0c3EAfgAMSfrEUXQAAiMjc3EAfgAMfnznZXQACGZpbmFsaXplc3EAfgAMM1QzDXQACGhhc2hDb2Rlc3EAfgAM34wbunQADmFzc2lnbm1lbnRzTWFwc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ab3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgBPdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCGAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBvTAAJaW5oZXJpdGVkcQB+AG9MAAdwYXJlbnRzcQB+AG94cQB+AI1zcQB+AIYBdXEAfgBqAAAAAHBzcQB+AIYBdXEAfgBqAAAAAHBzcQB+AIYBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAVzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCMdAAQU3R1ZGVudEJ1aWxkTGlrZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AjHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHNxAH4AmXQAC0NvbW1vbkJ1aWxkcQB+AJ9zcQB+AJl0AAVCdWlsZHNxAH4AnXNxAH4AoHVxAH4AowAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHEAfgCmdAADc2J0cQB+AKdzcQB+AJl0AAZPYmplY3RzcQB+AJ1zcQB+AKB1cQB+AKMAAAADc3EAfgCvdAAEamF2YXNxAH4Ar3QABGxhbmdxAH4Ap3NxAH4AmXQAA0FueXNxAH4AnXNxAH4AoHVxAH4AowAAAAJzcQB+AK90AAVzY2FsYXEAfgCncHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWXc5vkZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABkTjpcU2NhbGEgQ291cnNlIGFuZCBJbXAgUmVzb3VyY2VzXENvdXJzZXJhIGNvdXJzZVxleGFtcGxlXHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOyJ0J8ykxJu7l9BJ3eei/BSZ0CV
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA71U5YAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDqV9PZ0AAZub3RpZnlzcQB+AAyXehM5dAAMTWFwTWFwU3RyaW5nc3EAfgAMtKWlhnQAEFN0dWRlbnRCdWlsZExpa2VzcQB+AAx6IzWmdAAEd2FpdHNxAH4ADDPaF390AAZjb3Vyc2VzcQB+AAwS95wHdAANJGFzSW5zdGFuY2VPZnNxAH4ADAzzrb50AAxidWlsZExvYWRlcnNzcQB+AAzQaEhWdAAIY291cnNlSWRzcQB+AAx/pS1VdAADbWFwc3EAfgAMuYOrBHQABHJvb3RzcQB+AAyQ/TWqdAAMcHJvZHVjdEFyaXR5c3EAfgAMJwYMiHQABmVxdWFsc3NxAH4ADG14XLx0AAxhc0luc3RhbmNlT2ZzcQB+AAziS16hdAAScHJvamVjdERlZmluaXRpb25zc3EAfgAMnNthRnQADHN5bmNocm9uaXplZHNxAH4ADEn4yG90AA0kaXNJbnN0YW5jZU9mc3EAfgAMvGOpQnQAEnN1Ym1pdExvY2FsU2V0dGluZ3NxAH4ADFnPe/Z0AAxlbmNvZGVCYXNlNjRzcQB+AAyN1Z1YdAAIY2FuRXF1YWxzcQB+AAyN2xmWdAAGc3VibWl0c3EAfgAMN9gOJ3QADXByb2R1Y3RQcmVmaXhzcQB+AAxM2l2SdAAJbm90aWZ5QWxsc3EAfgAMwh4AxXQADXN1Ym1pdFNldHRpbmdzcQB+AAzMxzopdAALcm9vdFByb2plY3RzcQB+AAxbcKkKdAAMaXNJbnN0YW5jZU9mc3EAfgAMMcpjW3QABjxpbml0PnNxAH4ADOB6iUR0AApwcmVwYXJlSmFyc3EAfgAM9Vs2HnQACnN0eWxlQ2hlY2tzcQB+AAyroNJTdAAUY29tbW9uU291cmNlUGFja2FnZXNzcQB+AAxFEGXAdAACPT1zcQB+AAxDUMZYdAALc3VibWl0TG9jYWxzcQB+AAxHKl6/dAAFY2xvbmVzcQB+AAx9Vs4mdAATc2NhbGFUZXN0RGVwZW5kZW5jeXNxAH4ADHekC/J0AB1zb3VyY2VNYXBwaW5nc1dpdGhvdXRQYWNrYWdlc3NxAH4ADOfcmJ90ABZwYWNrYWdlU3VibWlzc2lvbkZpbGVzc3EAfgAMBpaYzHQAEXBhY2thZ2VTdWJtaXNzaW9uc3EAfgAMsqOyQXQABGNvcHlzcQB+AAwqcfoWdAAIdG9TdHJpbmdzcQB+AAwP61f8dAACIT1zcQB+AAwoBAEIdAAIcHJvamVjdHNzcQB+AAwc/YjsdAAIZ2V0Q2xhc3NzcQB+AAxiNxcwdAAOY29weSRkZWZhdWx0JDFzcQB+AAypKx0IdAAKYXNzaWdubWVudHNxAH4ADIWXvdZ0AAJuZXNxAH4ADGloGjN0ABFzdHlsZUNoZWNrU2V0dGluZ3NxAH4ADPqvMm10AAJlcXNxAH4ADH/rUel0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxkbteJdAAIc2V0dGluZ3NzcQB+AAxbJmkNdAAKZmFpbFN1Ym1pdHNxAH4ADFcTl0l0AAIjI3NxAH4ADLlWVNN0AAhmaW5hbGl6ZXNxAH4ADDdbGsJ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADDe5VEZ0AAhoYXNoQ29kZXNxAH4ADMdvWrp0AA5hc3NpZ25tZW50c01hcHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AEXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCaAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCDTAAJaW5oZXJpdGVkcQB+AINMAAdwYXJlbnRzcQB+AIN4cQB+AKFzcQB+AJoBdXEAfgB+AAAAAHBzcQB+AJoBdXEAfgB+AAAAAHBzcQB+AJoBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCgdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCgc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC6c3EAfgCtcQB+ALBzcQB+ALFzcQB+ALR1cQB+ALcAAAADc3EAfgC5dAAEamF2YXNxAH4AuXQAAmlvcQB+AL5zcQB+AK10AAdQcm9kdWN0cQB+ALNzcQB+AK10AAZFcXVhbHNxAH4As3NxAH4ArXQABk9iamVjdHNxAH4AsXNxAH4AtHVxAH4AtwAAAANzcQB+ALlxAH4AxHNxAH4AuXQABGxhbmdxAH4AvnNxAH4ArXQAA0FueXEAfgCzcHBzcQB+AIBxAH4AjXVxAH4AjgAAAABzcQB+AJAAcQB+ABN1cQB+AJIAAAAAcQB+AJZ1cQB+AJgAAAAAc3EAfgCaAXEAfgCicHNxAH4AmgFzcQB+AKRzcQB+AJoBdXEAfgB+AAAAAHBzcQB+AJoBdXEAfgB+AAAAAHBzcQB+AJoBdXEAfgCrAAAABHNxAH4ArXQAC0NvbW1vbkJ1aWxkc3EAfgCxc3EAfgC0dXEAfgC3AAAAAXEAfgC+c3EAfgCtdAAFQnVpbGRzcQB+ALFzcQB+ALR1cQB+ALcAAAACc3EAfgC5dAADc2J0cQB+AL5zcQB+AK1xAH4AzHNxAH4AsXNxAH4AtHVxAH4AtwAAAANzcQB+ALlxAH4AxHNxAH4AuXEAfgDScQB+AL5zcQB+AK1xAH4A1HNxAH4AsXNxAH4AtHVxAH4AtwAAAAJzcQB+ALlxAH4AvHEAfgC+cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWXc5vkZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABkTjpcU2NhbGEgQ291cnNlIGFuZCBJbXAgUmVzb3VyY2VzXENvdXJzZXJhIGNvdXJzZVxleGFtcGxlXHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFCmtRXGLtXAKwaJBJU1Js0137ddi
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAPYNO4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMYRmT10AAZub3RpZnlzcQB+AAwBAc68dAAEd2FpdHNxAH4ADEXgygJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMxDOjbXQABmVxdWFsc3NxAH4ADHwbGyF0AAxhc0luc3RhbmNlT2ZzcQB+AAw15InYdAADcG9zc3EAfgAM+We3HHQADHN5bmNocm9uaXplZHNxAH4ADOpL5nV0AAVzY29yZXNxAH4ADO8MWO90AA0kaXNJbnN0YW5jZU9mc3EAfgAM5nyJTHQABWluZm9zc3EAfgAMy05A8XQACHdhcm5pbmdzc3EAfgAMWmLS23QABmVycm9yc3NxAH4ADDm4A3N0AAtlYWNoTWVzc2FnZXNxAH4ADIY5LvZ0AAVmaWxlc3NxAH4ADNq4ZWl0AAlub3RpZnlBbGxzcQB+AAzZUrWxdAAMaXNJbnN0YW5jZU9mc3EAfgAMqozU6nQACW1heFJlc3VsdHNxAH4ADGdrOWV0AAY8aW5pdD5zcQB+AAxeTfJ7dAAJZmlsZUNvdW50c3EAfgAM4H5eAnQAAj09c3EAfgAMazJ5hHQABmFzc2Vzc3NxAH4ADHo0SXZ0AAVjbG9uZXNxAH4ADFBWeVR0AAZyZXBvcnRzcQB+AAwh0c+xdAAHbWVzc2FnZXNxAH4ADJjayQ50AAh0b1N0cmluZ3NxAH4ADKYogRR0AAIhPXNxAH4ADGLD7tl0AA1tZXNzYWdlSGVscGVyc3EAfgAMMF6naHQADFN0eWxlQ2hlY2tlcnNxAH4ADC6nT+R0AAhnZXRDbGFzc3NxAH4ADP2mG4t0AAZvdXRwdXRzcQB+AAwNQGNbdAACbmVzcQB+AAzkavumdAACZXFzcQB+AAzl7NTKdAACIyNzcQB+AAzRexIcdAAIZmluYWxpemVzcQB+AAzpgwCtdAAIaGFzaENvZGVzcQB+AAzWqZeedAAQQ3VzdG9tVGV4dE91dHB1dHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4ARXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AdgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AX0wACWluaGVyaXRlZHEAfgBfTAAHcGFyZW50c3EAfgBfeHEAfgB9c3EAfgB2AXVxAH4AWgAAAABwc3EAfgB2AXVxAH4AWgAAAABwc3EAfgB2AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AfHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AfHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AlXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlnNxAH4AiXQAA0FueXNxAH4AjXNxAH4AkHVxAH4AkwAAAAJzcQB+AJV0AAVzY2FsYXEAfgCccHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWXc5vkZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABkTjpcU2NhbGEgQ291cnNlIGFuZCBJbXAgUmVzb3VyY2VzXENvdXJzZXJhIGNvdXJzZVxleGFtcGxlXHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIyC1TaPneX2ZAwpUYIp/fbXlsWv
+external apis:
+0 items
+source infos:
+7 items
+N:\Scala Course and Imp Resources\Coursera course\example\project\CommonBuild.scala -> 
+AAAAAAAAAAA=
+N:\Scala Course and Imp Resources\Coursera course\example\project\GradingFeedback.scala -> 
+AAAAAAAAAAA=
+N:\Scala Course and Imp Resources\Coursera course\example\project\ScalaTestRunner.scala -> 
+AAAAAAAAAAA=
+N:\Scala Course and Imp Resources\Coursera course\example\project\Settings.scala -> 
+AAAAAAAAAAA=
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuild.scala -> 
+AAAAAAAAAAA=
+N:\Scala Course and Imp Resources\Coursera course\example\project\StudentBuildLike.scala -> 
+AAAAAAAAAAA=
+N:\Scala Course and Imp Resources\Coursera course\example\project\StyleChecker.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWXc20JJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZE46XFNjYWxhIENvdXJzZSBhbmQgSW1wIFJlc291cmNlc1xDb3Vyc2VyYSBjb3Vyc2VcZXhhbXBsZVxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWXc5vkZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZE46XFNjYWxhIENvdXJzZSBhbmQgSW1wIFJlc291cmNlc1xDb3Vyc2VyYSBjb3Vyc2VcZXhhbXBsZVxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEv

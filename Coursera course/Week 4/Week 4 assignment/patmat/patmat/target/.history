@@ -1,0 +1,18 @@
+compile
+testOnly *HuffmanSuite -- -t "weight of a larger tree"
+testOnly *HuffmanSuite -- -t "chars of a larger tree"
+compile
+testOnly *HuffmanSuite -- -t "test times"
+testOnly *HuffmanSuite -- -z "makeOrderedLeafList"
+testOnly *HuffmanSuite -- -t "combine of some leaf list"
+testOnly *HuffmanSuite -- -t "test until"
+testOnly *HuffmanSuite -- -t "test createCodeTree"
+compile
+testOnly *HuffmanSuite -- -t "test decode"
+testOnly *HuffmanSuite -- -t "frech code"
+testOnly *HuffmanSuite -- -t "decode and encode a very short text should be identity"
+testOnly *HuffmanSuite -- -t "test encode only"
+testOnly *HuffmanSuite -- -t "decode and encode a very short text should be identity"
+testOnly *HuffmanSuite -- -t "convert and test"
+testOnly *HuffmanSuite -- -t "test quick encode"
+submit aniketkdm@gmail.com mCwlnAj8Hx0wykUU
